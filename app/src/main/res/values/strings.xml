@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Pressure</string>
+    <string name="pressureUP">Систолическое давление</string>
+    <string name="pressureDown">Диастолическое давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="buttonOK">Сохранить</string>
+<!--    <string name="pressure">Давление</string>-->
+<!--    <string name="pressure">Давление</string>-->
+<!--    <string name="pressure">Давление</string>-->
 </resources>
